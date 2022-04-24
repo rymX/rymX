@@ -1,6 +1,10 @@
 Hi 👋 My name is FRADI Rym
 ==========================
 
+<p data-sourcepos="9:1-9:171" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://media4.giphy.com/media/L8K62iTDkzGX6/200w.webp?cid=ecf05e479fbn186ic5goyzl0xenmbqryp606lu9unf9cvf26&rid=200w.webp&ct=g"><img src="https://media4.giphy.com/media/L8K62iTDkzGX6/200w.webp?cid=ecf05e479fbn186ic5goyzl0xenmbqryp606lu9unf9cvf26&rid=200w.webp&ct=g" alt="Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)" style="max-width: 100%;"></a></p>
+
+
+
 FULL Stack JS developer
 -----------------------
 
@@ -30,6 +34,8 @@ I do currently web and mobile development but I went through some other things a
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://ubuntu.com/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" width="36" height="36" alt="Ubuntu" style="max-width: 100%;"></a><a href="https://git-scm.com/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="36" height="36" alt="Git" style="max-width: 100%;"></a><a href="https://wordpress.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg" width="36" height="36" alt="WordPress" style="max-width: 100%;"></a>
+  
+  
   
 </p>
 
